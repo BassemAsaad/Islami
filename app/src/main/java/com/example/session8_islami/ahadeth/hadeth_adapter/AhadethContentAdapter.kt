@@ -35,10 +35,6 @@ class AhadethContentAdapter(items:String) : RecyclerView.Adapter<AhadethContentA
 
     }
 
-    fun changeHadethContentData(verses : MutableList<String>){
-        itemsList = verses
-        notifyDataSetChanged()
-    }
 
 
 
