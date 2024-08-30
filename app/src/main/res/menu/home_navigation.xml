@@ -4,17 +4,17 @@
 
     <item
         android:id="@+id/navigation_sebha"
-        android:title="Sebha"
+        android:title="تسبيح"
         android:icon="@drawable/ic_sebha"
         />
     <item
         android:id="@+id/navigation_hadeth"
-        android:title="Hadeth"
+        android:title="احاديث"
         android:icon="@drawable/ic_hadeth"
         />
     <item
         android:id="@+id/navigation_quran"
-        android:title="Quran"
+        android:title="قرأن"
         android:icon="@drawable/ic_quran"
         />
 
